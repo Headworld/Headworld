@@ -13,20 +13,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1> Hi there, I'm Fredrick Falana! 👋</h1>
-<h3> 🚀 WordPress Developer | Web Developer | Open Source Enthusiast </h3>
+<h3> 🚀 Full Stack Developer, WordPress Developer | Web Developer | Open Source Enthusiast </h3>
 <h2> 🌟 About Me </h2>
 
-I'm a passionate <b> WordPress Developer</b> with over 8 years of experience designing and developing custom WordPress themes, plugins, and websites. My journey in web development started with a deep love for crafting dynamic, user-friendly web experiences. I specialize in creating responsive, SEO-friendly websites that help businesses establish their online presence and reach their goals. <br/>
-👀 I'm a proficient and creative Web developer with a strong website development and management history. I am experienced in HTML5, CSS3, SCSS, Bootstrap, Javascript, AJAX, JQuery, API, PHP/MySQL, WordPress, Custom Theme Development, WooCommerce, Advanced Custom Fields (ACFs), Gutenberg Blocks, Elementor, WP Bakery Visual Builder, Divi Page Builder, Shopify, Webflow, WP engine, AWS, Custom Plugin Development, and Plugin Setup and Customisation. I'm also Skilled in creating engaging and interactive websites, SEO, Page Speed Optimization, Web application development, and Graphics Design. I am also exploring new web technologies and fast adapting myself to them.
+I'm a passionate <b> Full Stack Developer</b> with over 8 years of experience designing and developing custom Projects, WordPress themes, plugins, and websites. My journey in web development started with a deep love for crafting dynamic, user-friendly web experiences. I specialize in creating responsive, SEO-friendly websites that help businesses establish their online presence and reach their goals. <br/>
+👀 I'm a proficient and creative Web developer with a strong website development and management history. I am experienced in HTML5, CSS3, SCSS, Bootstrap, Javascript, VueJS, ReactJS, AJAX, JQuery, API, PHP/MySQL, WordPress, Custom Theme Development, WooCommerce, Advanced Custom Fields (ACFs), Gutenberg Blocks, Elementor, WP Bakery Visual Builder, Divi Page Builder, Shopify, Webflow, WP engine, AWS, Custom Plugin Development, and Plugin Setup and Customisation. I'm also Skilled in creating engaging and interactive websites, SEO, Page Speed Optimization, Web application development, and Graphics Design. I am also exploring new web technologies and fast adapting myself to them.
 💞️ I’m open to positions and looking to collaborate on open projects.
 <ul>
-  <li>🖥️ Specialties: Custom WordPress Themes, WooCommerce, Performance Optimization</li>
-  <li>🌐 Tech Stack: PHP, JavaScript, HTML5, CSS3, MySQL, jQuery, Bootstrap </li>
+  <li>🖥️ Specialties: Web Application Development, Custom WordPress Themes, WooCommerce, Performance Optimization</li>
+  <li>🌐 Tech Stack: PHP, (Laravel Framework), JavaScript (VueJS, ReactJS), HTML5, CSS3, MySQL, jQuery, Bootstrap </li>
   <li>📚 Learning: Exploring headless WordPress with React and Gatsby </li>
 </ul>
 <h2> 🛠️ Tech & Tools </h2>
 <ul>
-  <li>Languages: PHP, JavaScript, HTML5, CSS3, SQL </li>
+  <li>Languages: PHP, (Laravel Framework), JavaScript (VueJS, ReactJS), HTML5, CSS3, MySQL, jQuery, Bootstrap </li>
   <li>Frameworks/Libraries: WordPress, jQuery, Bootstrap, Tailwind CSS </li>
   <li>Tools: Git, npm, Webpack, Gulp </li>
   <li>Databases: MySQL, MariaDB</li>
