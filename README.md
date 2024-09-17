@@ -33,6 +33,16 @@ I'm a passionate <b> Full Stack Developer</b> with over 8 years of experience de
   <li>Hosting: cPanel, WHM, AWS, DigitalOcean</li>
   <li>Others: WooCommerce, REST API, Advanced Custom Fields (ACF), Elementor</li>
 </ul>
+<h2> 🔭 Portfolio</h2>
+<ul>
+  <li><a href="https://headworldtechnology.com/" target="_blank"> https://headworldtechnology.com/ </a></li>
+  <li> <a href="https://appvybe.com/" target="_blank"> https://appvybe.com/ </a> </li>
+  <li> <a href="https://davayo.com/" target="_blank">https://davayo.com/ </a> </li>
+  <li> <a href="https://unchainedvibesafrica.com/" target="_blank"> https://unchainedvibesafrica.com/ </a> </li>
+  <li> <a href="https://edufidel.com/" target="_blank"> https://edufidel.com/ </a> </li>
+  <li> <a href="https://riskcontrolnigeria.com/" target="_blank"> https://riskcontrolnigeria.com/ </a> </li>
+  <li> <a href="https://hudmusic.com/" target="_blank"> https://hudmusic.com/ </a> </li>
+</ul>
 
 <h2>📫 Let's Connect</h2>
 <ul>
