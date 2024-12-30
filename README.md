@@ -42,6 +42,8 @@ I'm a passionate <b> Full Stack Developer</b> with over 8 years of experience de
   <li> <a href="https://edufidel.com/" target="_blank"> https://edufidel.com/ </a> </li>
   <li> <a href="https://riskcontrolnigeria.com/" target="_blank"> https://riskcontrolnigeria.com/ </a> </li>
   <li> <a href="https://hudmusic.com/" target="_blank"> https://hudmusic.com/ </a> </li>
+  <li> <a href="https://ticoclean.ca/" target="_blank">https://ticoclean.ca/ </a> </li>
+  <li> <a href="https://brandonpackaging.com/" target="_blank">https://brandonpackaging.com/ </a> </li>
 </ul>
 
 <h2>📫 Let's Connect</h2>
