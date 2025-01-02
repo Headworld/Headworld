@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h3> 🚀 Full Stack Developer, WordPress Developer | Web Developer | Open Source Enthusiast </h3>
 <h2> 🌟 About Me </h2>
 
-I'm a passionate <b> Full Stack Developer</b> with over 8 years of experience designing and developing custom Projects, WordPress themes, plugins, and websites. My journey in web development started with a deep love for crafting dynamic, user-friendly web experiences. I specialize in creating responsive, SEO-friendly websites that help businesses establish their online presence and reach their goals. <br/>
+I'm a passionate <b> Full Stack Developer</b> with over 12 years of experience designing and developing custom Projects, WordPress themes, plugins, and websites. My journey in web development started with a deep love for crafting dynamic, user-friendly web experiences. I specialize in creating responsive, SEO-friendly websites that help businesses establish their online presence and reach their goals. <br/>
 👀 I'm a proficient and creative Web developer with a strong website development and management history. I am experienced in HTML5, CSS3, SCSS, Bootstrap, Javascript, VueJS, ReactJS, AJAX, JQuery, API, PHP/MySQL, WordPress, Custom Theme Development, WooCommerce, Advanced Custom Fields (ACFs), Gutenberg Blocks, Elementor, WP Bakery Visual Builder, Divi Page Builder, Shopify, Webflow, WP engine, AWS, Custom Plugin Development, and Plugin Setup and Customisation. I'm also Skilled in creating engaging and interactive websites, SEO, Page Speed Optimization, Web application development, and Graphics Design. I am also exploring new web technologies and fast adapting myself to them.
 💞️ I’m open to positions and looking to collaborate on open projects.
 <ul>
